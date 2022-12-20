@@ -1,4 +1,3 @@
-SI-GuidedProject-335907-1665660708
 About the project:
 
 Nowadays, banks receive a lot of applications for issuance of credit cards. Many of them are rejected for many reasons, like high-loan balances,
